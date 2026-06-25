@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
