@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0015-3sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0015-3sum) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
@@ -73,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
