@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0015-3sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -52,4 +53,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+## Math
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
