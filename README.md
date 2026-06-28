@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
