@@ -81,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-daily-leads-and-partners](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
+| [1795-rearrange-products-table](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1795-rearrange-products-table) |
 <!---LeetCode Topics End-->
