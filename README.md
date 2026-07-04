@@ -19,9 +19,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0015-3sum) |
+| [0451-sort-characters-by-frequency](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3110-score-of-a-string](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -84,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1795-rearrange-products-table](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1795-rearrange-products-table) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
