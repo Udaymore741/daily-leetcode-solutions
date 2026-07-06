@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [1288-remove-covered-intervals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0015-3sum) |
 | [0451-sort-characters-by-frequency](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1288-remove-covered-intervals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
 | ------- |
