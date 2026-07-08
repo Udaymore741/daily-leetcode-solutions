@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
 | ------- |
