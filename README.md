@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3110-score-of-a-string](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/3110-score-of-a-string) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
