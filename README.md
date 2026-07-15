@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0496-next-greater-element-i](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Udaymore741/daily-leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
 | ------- |
